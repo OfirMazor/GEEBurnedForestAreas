@@ -6,4 +6,4 @@ The case study presented in the notebook is particularly insightful, focusing on
 
 The notebook also highlights the use of geemap, a Python package that simplifies the process of working with geospatial data in Google Earth Engine. Geemap provides a range of functionalities, including the ability to display satellite imagery, overlay data layers, and create interactive maps.
 
-(Before vs After)[]
+(Before vs After)[https://github.com/OfirMazor/GEEBurnedForestAreas/blob/main/Images/NBR-Before_vs_After.png]
