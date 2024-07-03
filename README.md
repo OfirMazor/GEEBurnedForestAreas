@@ -1,4 +1,4 @@
-# Tutorial for Estimate Foersts Fire Damage from Above with GEE and geemap
+# Tutorial for Estimate Forests Fire Damage from Above with GEE and geemap
 
 The Python notebook provided serves as a tutorial for individuals interested in exploring and analyzing burned forest areas. The tutorial focuses on the utilization of satellite imagery and [Google Earth Engine](https://earthengine.google.com/), a cloud-based platform that allows users to process large amounts of geospatial data.
 
